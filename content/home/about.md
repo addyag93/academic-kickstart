@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Text Mining",
     "Natural Language Processing",
-    "Deep Learning"
-    "Graph Analytics"
+    "Deep Learning",
+    "Graph Analytics",
     "Information Retrieval"
   ]
 
