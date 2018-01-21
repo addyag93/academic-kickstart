@@ -28,10 +28,6 @@ weight = 5
   institution = "University of Delhi"
   year = 2014
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
