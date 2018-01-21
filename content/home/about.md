@@ -10,21 +10,23 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
+    "Text Mining",
+    "Natural Language Processing",
+    "Deep Learning"
+    "Graph Analytics"
     "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Msc Computer Science"
+  institution = "University of Delhi"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc(H) Computer Science"
+  institution = "University of Delhi"
+  year = 2014
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
@@ -35,6 +37,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hey! I am currently working as Researcher under Prof. Vasudha Bhatnagar[http://people.du.ac.in/~vbhatnagar/] at Department of Computer Science, University of Delhi. I have a demonstrated history of working in academics with certified skills in R, Python, Tableau and other Data Mining tools. I have completed my Masters, focused in Computer Science from University of Delhi, India. My primary research interest is Text Mining with a focus on finding graph analytical based solutions to the problems. Other research interest includes Graph Analytics, Linguistics, Natural Language Processing.
